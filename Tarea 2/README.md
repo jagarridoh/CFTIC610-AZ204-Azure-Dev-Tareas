@@ -1,6 +1,6 @@
 1. **Nombres y apellidos:** Justo Antonio Garrido Herrador
 
-2. **Fecha:** entrega 17-1-2021
+2. **Fecha:** entrega 18-1-2021
 
 3. **Laboratorios / Demos**: 
    - **Demo Módulo 6**: Instrucciones: están en el MOC.
@@ -28,7 +28,8 @@
    * Los que vimos en clase.
    * Dificultad para utilizar la subscripción caducada y la nueva. Fue debido a no haber realizado "az login" en powershell. Una vez realizado el login, el parámentro "--subscription [nuevaSubsc]" en las órdenes az  fue reconocido y funcionó bien. (Sin descartar que algún cierre de sesión en navegador también hubiera ayudado). 
    * Instalar httprepl (https://www.nuget.org/packages/Microsoft.dotnet-httprepl).
-
+* En Lab 6: No encontré Authentication / Default client type. Interpreté que en su lugar había que utilizar "Allow public client flows".
+   
 6. **Detalles de la entrega**: 
 * **Evidencias capturas de pantalla en carpetas**: *** Capturas**. ( ruta: ...\\CFTIC610-AZ204-Azure-Dev-Tareas\Tarea 2\\* Capturas).
 * **Proyectos modificados** : ver carpetas "*** Proyectos**". ( ruta: ...\CFTIC610-AZ204-Azure-Dev-Tareas\Tarea 2\\* Proyectos).
