@@ -27,8 +27,8 @@
 
      * Se resolvió siguiendo la indicación de Billy:	
 
-       $Context = Get-AzSubscription -SubscriptionId "96d8...68d"
-       Set-AzContext $Context
+       $Context = Get-AzSubscription -SubscriptionId "96d8...68d"   
+       Set-AzContext $Context   
 6. **Detalles de la entrega**: 
 * **Evidencias capturas de pantalla en carpetas**: *** Capturas**. ( ruta: ...\\CFTIC610-AZ204-Azure-Dev-Tareas\Tarea 3\\* Capturas).
 * **Proyectos modificados** : ver carpetas "*** Proyectos**". ( ruta: ...\CFTIC610-AZ204-Azure-Dev-Tareas\Tarea 3\\* Proyectos).
