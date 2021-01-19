@@ -8,6 +8,8 @@
    - **Demo Módulo 7**: Instrucciones: están en el MOC. Esta demo la realicé, pero no conservo capturas ni los recursos generados en Azure. Tampoco se generó ningún proyecto en local.
    - **Laboratorio Módulo 7**: Fichero de Instrucciones: Instructions\Labs\AZ-204_07_lab_ak.md.
    - **Laboratorio Módulo 8**: Fichero de Instrucciones: Instructions\Labs\AZ-204_08_lab_ak.md.
+   - **Laboratorio Módulo 9**: Fichero de Instrucciones: Instructions\Labs\AZ-204_09_lab_ak.md.
+   - **Laboratorio Módulo 10**: Fichero de Instrucciones: Instructions\Labs\AZ-204_10_lab_ak.md.
    
 4. **Resumen de los Ejercicios:**
 * **Objetivos Demo/Lab 06**: 
