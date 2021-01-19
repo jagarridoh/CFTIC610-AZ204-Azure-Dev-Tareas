@@ -44,9 +44,51 @@
 
        ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2004.png)
 
-     * 
+     * Create a blank API:
 
-     * . Creación de operaciones contra el conedor Docker. Añadido de cabecera HTTP en respuesta. 
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2006.4.png)
+
+     * API created:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2006.5.png)
+
+     * Adding operation: 
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2008.4.png)
+
+     * Setting headers:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2012.3.png)
+
+     * Defining Backend (servicio al que enviar peticiones):
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2015.2.png)
+
+     * Ver los resultados de llamada a la API:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%202%20-%20Step%2019.png)
+
+     * Tratar la respuesta de la API:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%203%20-%20Step%2002.4.png)
+
+     * Resultados de la peticion API:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%203%20-%20Step%2006.png)
+
+     * Asignar política para manipular la respuesta y que sea convertida a JSON:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%203%20-%20Step%2011.png)
+
+     * Probamos y vemos la respuesta que ahora es JSON y no XML:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%203%20-%20Step%2016.png)
+
+     * Información en Trace / Outbound:
+
+       ![](https://raw.githubusercontent.com/jagarridoh/CFTIC610-AZ204-Azure-Dev-Tareas/main/Tarea%202/Lab%2008%20Capturas/Lab%208%20Azure%20multi-tier%20-%20Ex%202%20proxy%20API%20Management%20-%20Task%203%20-%20Step%2017.png)
+
+        
 * **Pasos Lab 08**:  Configuración y pruebas Azure. 
 
 5. **Dificultad o problemas presentados y como se resolvieron:** ninguna en especial.
