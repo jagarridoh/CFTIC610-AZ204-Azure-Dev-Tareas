@@ -9,6 +9,7 @@
    - **Laboratorio Módulo 7**: Fichero de Instrucciones: Instructions\Labs\AZ-204_07_lab_ak.md.
    - **Laboratorio Módulo 8**: Fichero de Instrucciones: Instructions\Labs\AZ-204_08_lab_ak.md.
    - **Laboratorio Módulo 9**: Fichero de Instrucciones: Instructions\Labs\AZ-204_09_lab_ak.md.
+   - **Demo Módulo 10**: Instrucciones: están en el MOC.
    - **Laboratorio Módulo 10**: Fichero de Instrucciones: Instructions\Labs\AZ-204_10_lab_ak.md.
    
 4. **Resumen de los Ejercicios:**
